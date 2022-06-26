@@ -27,14 +27,13 @@ Les données concernant les Pokémon et autres informations statiques sont stock
 
 # A Propos
 
-## Qui sommes-nous ?
+## Qui suis-je ?
 
-Ce projet a comme membres Baptiste Lacroix et Théo Vidal, tout deux étudiants en 1re année d’études dans la formation BUT informatique à l’IUT Nice cote d’azur.
+Ce projet est constitué de Lacroix Baptiste, étudiant en 1re année d’études dans la formation BUT informatique à l’IUT Nice cote d’azur.
 
 - Baptiste Lacroix [https://github.com/BaptisteLacroix](https://github.com/BaptisteLacroix)
-- Théo Vidal [https://github.com/Dalvii](https://github.com/Dalvii)
 
-### Nom de notre projet et de notre équipe
+### Nom de mon projet et de mon équipe
 
 - pokae-g2-bl-tv
 - G2 BL TV
