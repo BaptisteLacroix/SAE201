@@ -1,0 +1,637 @@
+juin 20, 2022 7:35:38 PM useLogger.MyLoggerConfiguration printLog
+INFO: création du ranch (Dresseur IAAleatoire).
+
+juin 20, 2022 7:35:38 PM useLogger.MyLoggerConfiguration printLog
+INFO: Pokedex vide (Pokedex).
+
+juin 20, 2022 7:35:38 PM useLogger.MyLoggerConfiguration printLog
+INFO: Pokedex vide (Pokedex).
+
+juin 20, 2022 7:35:38 PM useLogger.MyLoggerConfiguration printLog
+INFO: génération du Pokedex (Pokedex).
+
+juin 20, 2022 7:35:38 PM useLogger.MyLoggerConfiguration printLog
+INFO: génération du Pokedex (Pokedex).
+
+juin 20, 2022 7:35:38 PM useLogger.MyLoggerConfiguration printLog
+INFO: génération du Pokedex (Pokedex).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: génération du ranch terminé (Dresseur IAAleatoire).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: génération du ranch terminé (Dresseur IAAleatoire).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: génération du ranch terminé (Dresseur IAAleatoire).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: génération du ranch terminé (Dresseur IAAleatoire).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: création du dresseur (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: création du dresseur (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: création du dresseur (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: création du dresseur (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: création du dresseur (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: création du ranch. (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: création du ranch. (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: création du ranch. (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: création du ranch. (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: création du ranch. (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: création du ranch. (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: génération du ranch terminé (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: génération du ranch terminé (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: génération du ranch terminé (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: génération du ranch terminé (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: génération du ranch terminé (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: génération du ranch terminé (Dresseur IA).
+
+juin 20, 2022 7:35:42 PM useLogger.MyLoggerConfiguration printLog
+INFO: génération du ranch terminé (Dresseur IA).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Mon Jun 20 19:35:45 CEST 2022 : Le combat a durée : 2 s 896 ms en 21 tours <br>Mon Jun 20 19:35:45 CEST 2022 : Le gagnant est IA MinMax<br>Mon Jun 20 19:35:45 CEST 2022 : Le perdant est IA Aléatoire<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Kicklee attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Leveinard attaque le deuxième en infligeant 3 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 81.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 109.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Kicklee a subit 2 de damage par Leveinard (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 63.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 100.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Insécateur attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Tauros a subit 7 de damage par Insécateur (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 54.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Leveinard attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 63.0% a Leveinard
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Magmar attaque le premier en infligeant 10 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le deuxième en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Smogo attaque le deuxième en infligeant 0 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 9 de damage par Magmar (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Tauros attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 100.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Insécateur attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:43 CEST 2022 : Abra est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Lippoutou attaque le premier en infligeant 12 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:44 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Magmar attaque le premier en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:44 CEST 2022 : Lippoutou est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 2 de damage par Insécateur (lvl : 2)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 3 de damage par Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 100.0% a Kicklee<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 6 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 80.0% a Noeunoeuf
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee a subit 7 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Insécateur attaque le premier en infligeant 11 de damage (lvl : 6)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 1 de damage (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 47.0% a Insécateur
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 21 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 1 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 21 >>>>>>>>>>>>>>>>><br>
+Mon Jun 20 19:35:45 CEST 2022 : ------------------ Fin du combat ! ------------------<br>
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Mon Jun 20 19:35:45 CEST 2022 : Le combat a durée : 2 s 896 ms en 21 tours <br>Mon Jun 20 19:35:45 CEST 2022 : Le gagnant est IA MinMax<br>Mon Jun 20 19:35:45 CEST 2022 : Le perdant est IA Aléatoire<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Kicklee attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Leveinard attaque le deuxième en infligeant 3 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 81.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 109.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Kicklee a subit 2 de damage par Leveinard (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 63.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 100.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Insécateur attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Tauros a subit 7 de damage par Insécateur (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 54.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Leveinard attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 63.0% a Leveinard
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Magmar attaque le premier en infligeant 10 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le deuxième en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Smogo attaque le deuxième en infligeant 0 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 9 de damage par Magmar (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Tauros attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 100.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Insécateur attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:43 CEST 2022 : Abra est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Lippoutou attaque le premier en infligeant 12 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:44 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Magmar attaque le premier en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:44 CEST 2022 : Lippoutou est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 2 de damage par Insécateur (lvl : 2)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 3 de damage par Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 100.0% a Kicklee<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 6 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 80.0% a Noeunoeuf
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee a subit 7 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Insécateur attaque le premier en infligeant 11 de damage (lvl : 6)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 1 de damage (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 47.0% a Insécateur
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 21 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 1 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 21 >>>>>>>>>>>>>>>>><br>
+Mon Jun 20 19:35:45 CEST 2022 : ------------------ Fin du combat ! ------------------<br>
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Mon Jun 20 19:35:45 CEST 2022 : Le combat a durée : 2 s 896 ms en 21 tours <br>Mon Jun 20 19:35:45 CEST 2022 : Le gagnant est IA MinMax<br>Mon Jun 20 19:35:45 CEST 2022 : Le perdant est IA Aléatoire<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Kicklee attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Leveinard attaque le deuxième en infligeant 3 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 81.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 109.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Kicklee a subit 2 de damage par Leveinard (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 63.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 100.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Insécateur attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Tauros a subit 7 de damage par Insécateur (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 54.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Leveinard attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 63.0% a Leveinard
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Magmar attaque le premier en infligeant 10 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le deuxième en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Smogo attaque le deuxième en infligeant 0 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 9 de damage par Magmar (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Tauros attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 100.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Insécateur attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:43 CEST 2022 : Abra est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Lippoutou attaque le premier en infligeant 12 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:44 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Magmar attaque le premier en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:44 CEST 2022 : Lippoutou est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 2 de damage par Insécateur (lvl : 2)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 3 de damage par Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 100.0% a Kicklee<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 6 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 80.0% a Noeunoeuf
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee a subit 7 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Insécateur attaque le premier en infligeant 11 de damage (lvl : 6)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 1 de damage (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 47.0% a Insécateur
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 21 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 1 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 21 >>>>>>>>>>>>>>>>><br>
+Mon Jun 20 19:35:45 CEST 2022 : ------------------ Fin du combat ! ------------------<br>
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Mon Jun 20 19:35:45 CEST 2022 : Le combat a durée : 2 s 896 ms en 21 tours <br>Mon Jun 20 19:35:45 CEST 2022 : Le gagnant est IA MinMax<br>Mon Jun 20 19:35:45 CEST 2022 : Le perdant est IA Aléatoire<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Kicklee attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Leveinard attaque le deuxième en infligeant 3 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 81.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 109.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Kicklee a subit 2 de damage par Leveinard (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 63.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 100.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Insécateur attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Tauros a subit 7 de damage par Insécateur (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 54.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Leveinard attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 63.0% a Leveinard
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Magmar attaque le premier en infligeant 10 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le deuxième en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Smogo attaque le deuxième en infligeant 0 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 9 de damage par Magmar (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Tauros attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 100.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Insécateur attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:43 CEST 2022 : Abra est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Lippoutou attaque le premier en infligeant 12 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:44 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Magmar attaque le premier en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:44 CEST 2022 : Lippoutou est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 2 de damage par Insécateur (lvl : 2)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 3 de damage par Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 100.0% a Kicklee<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 6 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 80.0% a Noeunoeuf
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee a subit 7 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Insécateur attaque le premier en infligeant 11 de damage (lvl : 6)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 1 de damage (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 47.0% a Insécateur
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 21 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 1 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 21 >>>>>>>>>>>>>>>>><br>
+Mon Jun 20 19:35:45 CEST 2022 : ------------------ Fin du combat ! ------------------<br>
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Mon Jun 20 19:35:45 CEST 2022 : Le combat a durée : 2 s 896 ms en 21 tours <br>Mon Jun 20 19:35:45 CEST 2022 : Le gagnant est IA MinMax<br>Mon Jun 20 19:35:45 CEST 2022 : Le perdant est IA Aléatoire<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Kicklee attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Leveinard attaque le deuxième en infligeant 3 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 81.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 109.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Kicklee a subit 2 de damage par Leveinard (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 63.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 100.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Insécateur attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Tauros a subit 7 de damage par Insécateur (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 54.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Leveinard attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 63.0% a Leveinard
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Magmar attaque le premier en infligeant 10 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le deuxième en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Smogo attaque le deuxième en infligeant 0 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 9 de damage par Magmar (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Tauros attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 100.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Insécateur attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:43 CEST 2022 : Abra est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Lippoutou attaque le premier en infligeant 12 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:44 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Magmar attaque le premier en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:44 CEST 2022 : Lippoutou est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 2 de damage par Insécateur (lvl : 2)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 3 de damage par Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 100.0% a Kicklee<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 6 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 80.0% a Noeunoeuf
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee a subit 7 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Insécateur attaque le premier en infligeant 11 de damage (lvl : 6)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 1 de damage (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 47.0% a Insécateur
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 21 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 1 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 21 >>>>>>>>>>>>>>>>><br>
+Mon Jun 20 19:35:45 CEST 2022 : ------------------ Fin du combat ! ------------------<br>
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Mon Jun 20 19:35:45 CEST 2022 : Le combat a durée : 2 s 896 ms en 21 tours <br>Mon Jun 20 19:35:45 CEST 2022 : Le gagnant est IA MinMax<br>Mon Jun 20 19:35:45 CEST 2022 : Le perdant est IA Aléatoire<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Kicklee attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Leveinard attaque le deuxième en infligeant 3 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 81.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 109.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Kicklee a subit 2 de damage par Leveinard (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 63.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 100.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Insécateur attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Tauros a subit 7 de damage par Insécateur (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 54.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Leveinard attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 63.0% a Leveinard
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Magmar attaque le premier en infligeant 10 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le deuxième en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Smogo attaque le deuxième en infligeant 0 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 9 de damage par Magmar (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Tauros attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 100.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Insécateur attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:43 CEST 2022 : Abra est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Lippoutou attaque le premier en infligeant 12 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:44 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Magmar attaque le premier en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:44 CEST 2022 : Lippoutou est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 2 de damage par Insécateur (lvl : 2)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 3 de damage par Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 100.0% a Kicklee<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 6 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 80.0% a Noeunoeuf
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee a subit 7 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Insécateur attaque le premier en infligeant 11 de damage (lvl : 6)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 1 de damage (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 47.0% a Insécateur
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 21 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 1 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 21 >>>>>>>>>>>>>>>>><br>
+Mon Jun 20 19:35:45 CEST 2022 : ------------------ Fin du combat ! ------------------<br>
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Mon Jun 20 19:35:45 CEST 2022 : Le combat a durée : 2 s 896 ms en 21 tours <br>Mon Jun 20 19:35:45 CEST 2022 : Le gagnant est IA MinMax<br>Mon Jun 20 19:35:45 CEST 2022 : Le perdant est IA Aléatoire<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Kicklee attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Leveinard attaque le deuxième en infligeant 3 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 81.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 109.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Kicklee a subit 2 de damage par Leveinard (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 63.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 100.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Insécateur attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Tauros a subit 7 de damage par Insécateur (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 54.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Leveinard attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 63.0% a Leveinard
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Magmar attaque le premier en infligeant 10 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le deuxième en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Smogo attaque le deuxième en infligeant 0 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 9 de damage par Magmar (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Tauros attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 100.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Insécateur attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:43 CEST 2022 : Abra est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Lippoutou attaque le premier en infligeant 12 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:44 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Magmar attaque le premier en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:44 CEST 2022 : Lippoutou est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 2 de damage par Insécateur (lvl : 2)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 3 de damage par Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 100.0% a Kicklee<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 6 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 80.0% a Noeunoeuf
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee a subit 7 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Insécateur attaque le premier en infligeant 11 de damage (lvl : 6)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 1 de damage (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 47.0% a Insécateur
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 21 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 1 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 21 >>>>>>>>>>>>>>>>><br>
+Mon Jun 20 19:35:45 CEST 2022 : ------------------ Fin du combat ! ------------------<br>
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Mon Jun 20 19:35:45 CEST 2022 : Le combat a durée : 2 s 896 ms en 21 tours <br>Mon Jun 20 19:35:45 CEST 2022 : Le gagnant est IA MinMax<br>Mon Jun 20 19:35:45 CEST 2022 : Le perdant est IA Aléatoire<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Kicklee attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Leveinard attaque le deuxième en infligeant 3 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 81.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 109.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 1 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Kicklee a subit 2 de damage par Leveinard (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 63.0% a Kicklee
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 100.0% a Leveinard<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 2 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:42 CEST 2022 : Insécateur attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:42 CEST 2022 : Il reste 45.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 3 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Tauros a subit 7 de damage par Insécateur (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 54.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 4 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Leveinard attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 63.0% a Leveinard
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 5 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Magmar attaque le premier en infligeant 10 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le deuxième en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 6 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Abra attaque le premier en infligeant 4 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Smogo attaque le deuxième en infligeant 0 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 18.0% a Abra
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 7 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 9 de damage par Magmar (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 8 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Lippoutou (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Lippoutou a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 9 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Tauros attaque le premier en infligeant 7 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 100.0% a Tauros
+Mon Jun 20 19:35:43 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 10 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:43 CEST 2022 : Insécateur attaque le premier en infligeant 2 de damage (lvl : 1)
+Mon Jun 20 19:35:43 CEST 2022 : Il reste 45.0% a Insécateur
+Mon Jun 20 19:35:43 CEST 2022 : Abra est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 11 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Lippoutou attaque le premier en infligeant 12 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 27.0% a Lippoutou
+Mon Jun 20 19:35:44 CEST 2022 : Leveinard est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 12 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Magmar attaque le premier en infligeant 9 de damage (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar
+Mon Jun 20 19:35:44 CEST 2022 : Lippoutou est ko !<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 13 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 2 de damage par Insécateur (lvl : 2)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 45.0% a Insécateur<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 14 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 3 de damage par Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 100.0% a Kicklee<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 15 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Tauros (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros a subit 6 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Tauros est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 16 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:44 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 80.0% a Noeunoeuf
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 17 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:44 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Kicklee (lvl : 1)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee a subit 7 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:44 CEST 2022 : Kicklee est ko !
+Mon Jun 20 19:35:44 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 18 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Insécateur attaque le premier en infligeant 11 de damage (lvl : 6)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf attaque le deuxième en infligeant 1 de damage (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 47.0% a Insécateur
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 19 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 0 de damage par Smogo (lvl : 1)
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 7.0% a Noeunoeuf
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 72.0% a Smogo<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 20 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Début du tour : 21 >>>>>>>>>>>>>>>>><br>Mon Jun 20 19:35:45 CEST 2022 : Le Dresseur 1 a changé son Pokémon par : Noeunoeuf (lvl : 4)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf a subit 1 de damage par Magmar (lvl : 5)
+Mon Jun 20 19:35:45 CEST 2022 : Noeunoeuf est ko !
+Mon Jun 20 19:35:45 CEST 2022 : Il reste 90.0% a Magmar<br>Mon Jun 20 19:35:45 CEST 2022 : <<<<<<<<<<<<<<<<<< Fin du tour : 21 >>>>>>>>>>>>>>>>><br>
+Mon Jun 20 19:35:45 CEST 2022 : ------------------ Fin du combat ! ------------------<br>
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IAAleatoire).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IAAleatoire).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IAAleatoire).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IAAleatoire).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IAAleatoire).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IAAleatoire).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IAAleatoire).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IAAleatoire).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IAAleatoire).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IA).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IA).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IA).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IA).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IA).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IA).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IA).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IA).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IA).
+
+juin 20, 2022 7:35:45 PM useLogger.MyLoggerConfiguration printLog
+INFO: Soin du ranch (Dresseur IA).
+

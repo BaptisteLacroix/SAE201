@@ -1,0 +1,9884 @@
+{
+  "Pokemon": [
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "48"
+        },
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Fouet Lianes",
+          "lvl": "13"
+        }
+      ],
+      "nom": "Bulbizarre"
+    },
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "54"
+        },
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Fouet Lianes",
+          "lvl": "13"
+        }
+      ],
+      "nom": "Herbizarre"
+    },
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "65"
+        },
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Fouet Lianes",
+          "lvl": "1"
+        }
+      ],
+      "nom": "Florizarre"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Flammèche",
+          "lvl": "9"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Danse Flammes",
+          "lvl": "46"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Flammes",
+          "lvl": "38"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "30"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Draco-Rage",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "22"
+        }
+      ],
+      "nom": "Salamèche"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Flammèche",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Danse Flammes",
+          "lvl": "56"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Flammes",
+          "lvl": "42"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "33"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Draco-Rage",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "24"
+        }
+      ],
+      "nom": "Reptincel"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Flammèche",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Danse Flammes",
+          "lvl": "55"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Flammes",
+          "lvl": "46"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "36"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Draco-Rage",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "24"
+        }
+      ],
+      "nom": "Dracaufeu"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "15"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "42"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "22"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Écume",
+          "lvl": "8"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Carapuce"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "15"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "47"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "24"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Écume",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Carabaffe"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "1"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "52"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "24"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Écume",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Tortank"
+    },
+    {
+      "moves": [
+        {
+          "move": "Charge",
+          "lvl": "1"
+        }
+      ],
+      "nom": "Chenipan"
+    },
+    {
+      "moves": [],
+      "nom": "Chrysacier"
+    },
+    {
+      "moves": [
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Rafale Psy",
+          "lvl": "32"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Choc Mental",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Papilusion"
+    },
+    {
+      "moves": [
+        {
+          "move": "Dard-Venin",
+          "lvl": "1"
+        }
+      ],
+      "nom": "Aspicot"
+    },
+    {
+      "moves": [],
+      "nom": "Coconfort"
+    },
+    {
+      "moves": [
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Dard-Nuée",
+          "lvl": "30"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Furie",
+          "lvl": "1"
+        },
+        {
+          "move": "Double Dard",
+          "lvl": "20"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "25"
+        }
+      ],
+      "nom": "Dardargnan"
+    },
+    {
+      "moves": [
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Tornade",
+          "lvl": "1"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Vol",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Piqué",
+          "lvl": "0"
+        },
+        {
+          "move": "Vive-Attaque",
+          "lvl": "12"
+        },
+        {
+          "move": "Cru-Ailes",
+          "lvl": "28"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Roucool"
+    },
+    {
+      "moves": [
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Tornade",
+          "lvl": "1"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Vol",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Piqué",
+          "lvl": "0"
+        },
+        {
+          "move": "Vive-Attaque",
+          "lvl": "12"
+        },
+        {
+          "move": "Cru-Ailes",
+          "lvl": "31"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Roucoups"
+    },
+    {
+      "moves": [
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Tornade",
+          "lvl": "1"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Vol",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Piqué",
+          "lvl": "0"
+        },
+        {
+          "move": "Vive-Attaque",
+          "lvl": "1"
+        },
+        {
+          "move": "Cru-Ailes",
+          "lvl": "31"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Roucarnage"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Croc Fatal",
+          "lvl": "34"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Vive-Attaque",
+          "lvl": "7"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Croc de Mort",
+          "lvl": "14"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Rattata"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Vive-Attaque",
+          "lvl": "1"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Croc Fatal",
+          "lvl": "41"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Croc de Mort",
+          "lvl": "14"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Rattatac"
+    },
+    {
+      "moves": [
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Furie",
+          "lvl": "15"
+        },
+        {
+          "move": "Vol",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Piqué",
+          "lvl": "0"
+        },
+        {
+          "move": "Picpic",
+          "lvl": "1"
+        },
+        {
+          "move": "Bec Vrille",
+          "lvl": "29"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Piafabec"
+    },
+    {
+      "moves": [
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Furie",
+          "lvl": "15"
+        },
+        {
+          "move": "Vol",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Piqué",
+          "lvl": "0"
+        },
+        {
+          "move": "Picpic",
+          "lvl": "1"
+        },
+        {
+          "move": "Bec Vrille",
+          "lvl": "34"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Rapasdepic"
+    },
+    {
+      "moves": [
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "17"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Acide",
+          "lvl": "38"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Ligotage",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Dard-Venin",
+          "lvl": "10"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Abo"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Ligotage",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "17"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Acide",
+          "lvl": "47"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Dard-Venin",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Arbok"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "26"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vive-Attaque",
+          "lvl": "16"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "43"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Éclair",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Pikachu"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Éclair",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Raichu"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "31"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "17"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Dard-Venin",
+          "lvl": "24"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Combo-Griffe",
+          "lvl": "38"
+        }
+      ],
+      "nom": "Sabelette"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "36"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "17"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Dard-Venin",
+          "lvl": "27"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Combo-Griffe",
+          "lvl": "47"
+        }
+      ],
+      "nom": "Sablaireau"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "29"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Double Pied",
+          "lvl": "43"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "8"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Dard-Venin",
+          "lvl": "14"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Combo-Griffe",
+          "lvl": "36"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Nidoran♀"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "32"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Double Pied",
+          "lvl": "50"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Dard-Venin",
+          "lvl": "14"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Combo-Griffe",
+          "lvl": "41"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Nidorina"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "1"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Dard-Venin",
+          "lvl": "14"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Nidoqueen"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Furie",
+          "lvl": "29"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Double Pied",
+          "lvl": "43"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Dard-Venin",
+          "lvl": "14"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Nidoran♂"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Furie",
+          "lvl": "32"
+        },
+        {
+          "move": "Double Pied",
+          "lvl": "50"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Dard-Venin",
+          "lvl": "14"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Nidorino"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Mania",
+          "lvl": "1"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Dard-Venin",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Nidoking"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Torgnoles",
+          "lvl": "18"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Mélofée"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Torgnoles",
+          "lvl": "1"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Mélodelfe"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Danse Flammes",
+          "lvl": "42"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Flammes",
+          "lvl": "35"
+        },
+        {
+          "move": "Flammèche",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Vive-Attaque",
+          "lvl": "16"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Goupix"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Flammèche",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Vive-Attaque",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Feunard"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "34"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Torgnoles",
+          "lvl": "24"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "39"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Rondoudou"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Torgnoles",
+          "lvl": "1"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Grodoudou"
+    },
+    {
+      "moves": [
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Vampirisme",
+          "lvl": "1"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "15"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Cru-Ailes",
+          "lvl": "28"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Nosferapti"
+    },
+    {
+      "moves": [
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Vampirisme",
+          "lvl": "1"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "1"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Cru-Ailes",
+          "lvl": "32"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Nosferalto"
+    },
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "46"
+        },
+        {
+          "move": "Danse Fleurs",
+          "lvl": "33"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Acide",
+          "lvl": "24"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Vole-Vie",
+          "lvl": "1"
+        }
+      ],
+      "nom": "Mystherbe"
+    },
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "52"
+        },
+        {
+          "move": "Danse Fleurs",
+          "lvl": "38"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Acide",
+          "lvl": "28"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Vole-Vie",
+          "lvl": "1"
+        }
+      ],
+      "nom": "Ortide"
+    },
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Danse Fleurs",
+          "lvl": "1"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Acide",
+          "lvl": "1"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Rafflesia"
+    },
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Vampirisme",
+          "lvl": "20"
+        },
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "34"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Paras"
+    },
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Vampirisme",
+          "lvl": "1"
+        },
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "39"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Parasect"
+    },
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Vampirisme",
+          "lvl": "27"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "43"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Rafale Psy",
+          "lvl": "35"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Mimitoss"
+    },
+    {
+      "moves": [
+        {
+          "move": "Vampirisme",
+          "lvl": "1"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "50"
+        },
+        {
+          "move": "Rafale Psy",
+          "lvl": "38"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Aéromite"
+    },
+    {
+      "moves": [
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "31"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "19"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "40"
+        }
+      ],
+      "nom": "Taupiqueur"
+    },
+    {
+      "moves": [
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "35"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "1"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "47"
+        }
+      ],
+      "nom": "Triopikeur"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "12"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "44"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "17"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Combo-Griffe",
+          "lvl": "33"
+        }
+      ],
+      "nom": "Miaouss"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "1"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "51"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "17"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Combo-Griffe",
+          "lvl": "37"
+        }
+      ],
+      "nom": "Persian"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "52"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Choc Mental",
+          "lvl": "36"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Combo-Griffe",
+          "lvl": "43"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Psykokwak"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "59"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Choc Mental",
+          "lvl": "39"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Combo-Griffe",
+          "lvl": "48"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Akwakwak"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Poing Karaté",
+          "lvl": "15"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "33"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Mania",
+          "lvl": "39"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Combo-Griffe",
+          "lvl": "21"
+        }
+      ],
+      "nom": "Férosinge"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Poing Karaté",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "37"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Mania",
+          "lvl": "46"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Combo-Griffe",
+          "lvl": "1"
+        }
+      ],
+      "nom": "Colossinge"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "1"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Flammes",
+          "lvl": "50"
+        },
+        {
+          "move": "Flammèche",
+          "lvl": "18"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "30"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Draco-Rage",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Caninos"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Flammèche",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "1"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Draco-Rage",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Arcanin"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "31"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Torgnoles",
+          "lvl": "25"
+        },
+        {
+          "move": "Écume",
+          "lvl": "1"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "19"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "45"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Ptitard"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "33"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Torgnoles",
+          "lvl": "26"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "1"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "49"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Écume",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Têtarte"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "1"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Torgnoles",
+          "lvl": "1"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "1"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Tartard"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Abra"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "38"
+        },
+        {
+          "move": "Rafale Psy",
+          "lvl": "27"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Choc Mental",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Kadabra"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "38"
+        },
+        {
+          "move": "Rafale Psy",
+          "lvl": "27"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Choc Mental",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Alakazam"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "46"
+        },
+        {
+          "move": "Balayage",
+          "lvl": "20"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Poing Karaté",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "39"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Machoc"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "52"
+        },
+        {
+          "move": "Balayage",
+          "lvl": "1"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Poing Karaté",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "44"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Machopeur"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "52"
+        },
+        {
+          "move": "Balayage",
+          "lvl": "1"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Poing Karaté",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "44"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Mackogneur"
+    },
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Acide",
+          "lvl": "26"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Ligotage",
+          "lvl": "13"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Souplesse",
+          "lvl": "42"
+        },
+        {
+          "move": "Fouet Lianes",
+          "lvl": "1"
+        }
+      ],
+      "nom": "Chétiflor"
+    },
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Acide",
+          "lvl": "29"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Ligotage",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Souplesse",
+          "lvl": "49"
+        },
+        {
+          "move": "Fouet Lianes",
+          "lvl": "1"
+        }
+      ],
+      "nom": "Boustiflor"
+    },
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Acide",
+          "lvl": "1"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Ligotage",
+          "lvl": "13"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Empiflor"
+    },
+    {
+      "moves": [
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Ligotage",
+          "lvl": "13"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "22"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "48"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Constriction",
+          "lvl": "27"
+        },
+        {
+          "move": "Acide",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Dard-Venin",
+          "lvl": "18"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Tentacool"
+    },
+    {
+      "moves": [
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Ligotage",
+          "lvl": "1"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "22"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "50"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Constriction",
+          "lvl": "27"
+        },
+        {
+          "move": "Acide",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Dard-Venin",
+          "lvl": "18"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Tentacruel"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "21"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Jet-Pierres",
+          "lvl": "16"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "31"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Explosion",
+          "lvl": "36"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Racaillou"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "21"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Jet-Pierres",
+          "lvl": "16"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "36"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Explosion",
+          "lvl": "43"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Gravalanch"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "21"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Jet-Pierres",
+          "lvl": "16"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "36"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Explosion",
+          "lvl": "43"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Grolem"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Danse Flammes",
+          "lvl": "39"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Flammèche",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "43"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Écrasement",
+          "lvl": "32"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Ponyta"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Danse Flammes",
+          "lvl": "39"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Flammèche",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "47"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Écrasement",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Galopa"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "48"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "33"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Choc Mental",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Ramoloss"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "55"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "33"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Choc Mental",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Flagadoss"
+    },
+    {
+      "moves": [
+        {
+          "move": "Sonic Boom",
+          "lvl": "21"
+        },
+        {
+          "move": "Météores",
+          "lvl": "41"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Éclair",
+          "lvl": "25"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Magnéti"
+    },
+    {
+      "moves": [
+        {
+          "move": "Sonic Boom",
+          "lvl": "1"
+        },
+        {
+          "move": "Météores",
+          "lvl": "46"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Éclair",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Magnéton"
+    },
+    {
+      "moves": [
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "39"
+        },
+        {
+          "move": "Furie",
+          "lvl": "15"
+        },
+        {
+          "move": "Vol",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Picpic",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Canarticho"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Furie",
+          "lvl": "24"
+        },
+        {
+          "move": "Vol",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Piqué",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "40"
+        },
+        {
+          "move": "Picpic",
+          "lvl": "1"
+        },
+        {
+          "move": "Bec Vrille",
+          "lvl": "30"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "36"
+        }
+      ],
+      "nom": "Doduo"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Furie",
+          "lvl": "1"
+        },
+        {
+          "move": "Vol",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Piqué",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "45"
+        },
+        {
+          "move": "Picpic",
+          "lvl": "1"
+        },
+        {
+          "move": "Bec Vrille",
+          "lvl": "30"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "39"
+        }
+      ],
+      "nom": "Dodrio"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "50"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "45"
+        },
+        {
+          "move": "Onde Boréale",
+          "lvl": "35"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Otaria"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "56"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "50"
+        },
+        {
+          "move": "Onde Boréale",
+          "lvl": "1"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Lamantine"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Explosion",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "0"
+        },
+        {
+          "move": "Détritus",
+          "lvl": "37"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Tadmorv"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Explosion",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "0"
+        },
+        {
+          "move": "Détritus",
+          "lvl": "37"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Grotadmorv"
+    },
+    {
+      "moves": [
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "50"
+        },
+        {
+          "move": "Explosion",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Onde Boréale",
+          "lvl": "30"
+        },
+        {
+          "move": "Claquoir",
+          "lvl": "23"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Kokiyas"
+    },
+    {
+      "moves": [
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Explosion",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Onde Boréale",
+          "lvl": "1"
+        },
+        {
+          "move": "Picanon",
+          "lvl": "50"
+        },
+        {
+          "move": "Claquoir",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Crustabri"
+    },
+    {
+      "moves": [
+        {
+          "move": "Explosion",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Dévorêve",
+          "lvl": "35"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Ombre Nocturne",
+          "lvl": "1"
+        },
+        {
+          "move": "Léchouille",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Fantominus"
+    },
+    {
+      "moves": [
+        {
+          "move": "Explosion",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Dévorêve",
+          "lvl": "38"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Ombre Nocturne",
+          "lvl": "1"
+        },
+        {
+          "move": "Léchouille",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Spectrum"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Dévorêve",
+          "lvl": "38"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Ombre Nocturne",
+          "lvl": "1"
+        },
+        {
+          "move": "Explosion",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Léchouille",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Ectoplasma"
+    },
+    {
+      "moves": [
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Explosion",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Jet-Pierres",
+          "lvl": "19"
+        },
+        {
+          "move": "Étreinte",
+          "lvl": "15"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "25"
+        },
+        {
+          "move": "Souplesse",
+          "lvl": "33"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Onix"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "32"
+        },
+        {
+          "move": "Dévorêve",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Choc Mental",
+          "lvl": "17"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Soporifik"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "37"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Dévorêve",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Choc Mental",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Hypnomade"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Pince-Masse",
+          "lvl": "35"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Guillotine",
+          "lvl": "25"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Écume",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Écrasement",
+          "lvl": "30"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Force Poigne",
+          "lvl": "20"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Krabby"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Pince-Masse",
+          "lvl": "42"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Guillotine",
+          "lvl": "25"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Écume",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Écrasement",
+          "lvl": "34"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Force Poigne",
+          "lvl": "1"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Krabboss"
+    },
+    {
+      "moves": [
+        {
+          "move": "Sonic Boom",
+          "lvl": "17"
+        },
+        {
+          "move": "Météores",
+          "lvl": "36"
+        },
+        {
+          "move": "Explosion",
+          "lvl": "43"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "22"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Voltorbe"
+    },
+    {
+      "moves": [
+        {
+          "move": "Sonic Boom",
+          "lvl": "1"
+        },
+        {
+          "move": "Météores",
+          "lvl": "40"
+        },
+        {
+          "move": "Explosion",
+          "lvl": "50"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "22"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Électrode"
+    },
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "42"
+        },
+        {
+          "move": "Explosion",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Pilonnage",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Noeunoeuf"
+    },
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Explosion",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Pilonnage",
+          "lvl": "1"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Écrasement",
+          "lvl": "28"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Noadkoko"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Osmerang",
+          "lvl": "43"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Mania",
+          "lvl": "38"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "46"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Osselait"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Osmerang",
+          "lvl": "48"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Mania",
+          "lvl": "41"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "55"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Ossatueur"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Pied Voltige",
+          "lvl": "48"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Pied Sauté",
+          "lvl": "38"
+        },
+        {
+          "move": "Double Pied",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Mawashi Geri",
+          "lvl": "33"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "53"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Kicklee"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "53"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Poing Éclair",
+          "lvl": "43"
+        },
+        {
+          "move": "Poing Comète",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "48"
+        },
+        {
+          "move": "Poing Feu",
+          "lvl": "33"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Poing Glace",
+          "lvl": "38"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Tygnon"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Ligotage",
+          "lvl": "1"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Écrasement",
+          "lvl": "7"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Souplesse",
+          "lvl": "31"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Excelangue"
+    },
+    {
+      "moves": [
+        {
+          "move": "Explosion",
+          "lvl": "48"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "40"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Détritus",
+          "lvl": "32"
+        },
+        {
+          "move": "Purédpois",
+          "lvl": "1"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Smogo"
+    },
+    {
+      "moves": [
+        {
+          "move": "Explosion",
+          "lvl": "53"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "43"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Détritus",
+          "lvl": "1"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Purédpois",
+          "lvl": "1"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Smogogo"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Furie",
+          "lvl": "40"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "55"
+        },
+        {
+          "move": "Écrasement",
+          "lvl": "30"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Rhinocorne"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Furie",
+          "lvl": "1"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "64"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Écrasement",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Rhinoféros"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Torgnoles",
+          "lvl": "1"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "54"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Leveinard"
+    },
+    {
+      "moves": [
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Constriction",
+          "lvl": "1"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Étreinte",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Souplesse",
+          "lvl": "45"
+        },
+        {
+          "move": "Vole-Vie",
+          "lvl": "29"
+        }
+      ],
+      "nom": "Saquedeneu"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Poing Comète",
+          "lvl": "1"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Uppercut",
+          "lvl": "46"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "26"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "36"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "1"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Kangourex"
+    },
+    {
+      "moves": [
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Écume",
+          "lvl": "1"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "30"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "45"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Hypotrempe"
+    },
+    {
+      "moves": [
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Écume",
+          "lvl": "1"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "30"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "52"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Hypocéan"
+    },
+    {
+      "moves": [
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Furie",
+          "lvl": "30"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Picpic",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Cascade",
+          "lvl": "37"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Poissirène"
+    },
+    {
+      "moves": [
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Picpic",
+          "lvl": "1"
+        },
+        {
+          "move": "Cascade",
+          "lvl": "39"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Furie",
+          "lvl": "30"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Poissoroy"
+    },
+    {
+      "moves": [
+        {
+          "move": "Météores",
+          "lvl": "32"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "17"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "47"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Stari"
+    },
+    {
+      "moves": [
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "1"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Staross"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Torgnoles",
+          "lvl": "31"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Choc Mental",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "M. Mime"
+    },
+    {
+      "moves": [
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "29"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Vive-Attaque",
+          "lvl": "1"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Insécateur"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "39"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Torgnoles",
+          "lvl": "23"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Poing Glace",
+          "lvl": "31"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Mania",
+          "lvl": "47"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Léchouille",
+          "lvl": "18"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "58"
+        }
+      ],
+      "nom": "Lippoutou"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Poing Éclair",
+          "lvl": "42"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Vive-Attaque",
+          "lvl": "1"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "54"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Éclair",
+          "lvl": "34"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Élektek"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Flammèche",
+          "lvl": "1"
+        },
+        {
+          "move": "Purédpois",
+          "lvl": "52"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Poing Feu",
+          "lvl": "43"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Flammes",
+          "lvl": "55"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Magmar"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "49"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "25"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Force Poigne",
+          "lvl": "1"
+        },
+        {
+          "move": "Guillotine",
+          "lvl": "30"
+        }
+      ],
+      "nom": "Scarabrute"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "51"
+        },
+        {
+          "move": "Écrasement",
+          "lvl": "21"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "44"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Tauros"
+    },
+    {
+      "moves": [
+        {
+          "move": "Charge",
+          "lvl": "15"
+        }
+      ],
+      "nom": "Magicarpe"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "52"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "1"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "1"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Draco-Rage",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Léviator"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "25"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "1"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "46"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "38"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Draco-Rage",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Lokhlass"
+    },
+    {
+      "moves": [],
+      "nom": "Métamorph"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "37"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "45"
+        },
+        {
+          "move": "Vive-Attaque",
+          "lvl": "27"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Évoli"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "1"
+        },
+        {
+          "move": "Vive-Attaque",
+          "lvl": "1"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "54"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "40"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Aquali"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Dard-Nuée",
+          "lvl": "48"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vive-Attaque",
+          "lvl": "1"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "54"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Double Pied",
+          "lvl": "42"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Éclair",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Voltali"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "40"
+        },
+        {
+          "move": "Danse Flammes",
+          "lvl": "44"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Lance-Flammes",
+          "lvl": "54"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Flammèche",
+          "lvl": "1"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Vive-Attaque",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "48"
+        }
+      ],
+      "nom": "Pyroli"
+    },
+    {
+      "moves": [
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Rafale Psy",
+          "lvl": "23"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "42"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Charge",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Porygon"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Picanon",
+          "lvl": "46"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "1"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "53"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Amonita"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "1"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "49"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Picanon",
+          "lvl": "44"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Amonistar"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "39"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "49"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Vole-Vie",
+          "lvl": "34"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Kabuto"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Hydrocanon",
+          "lvl": "53"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Vole-Vie",
+          "lvl": "1"
+        },
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Tranche",
+          "lvl": "39"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Griffe",
+          "lvl": "1"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Kabutops"
+    },
+    {
+      "moves": [
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Morsure",
+          "lvl": "38"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "54"
+        },
+        {
+          "move": "Vol",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "45"
+        },
+        {
+          "move": "Piqué",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Draco-Rage",
+          "lvl": "0"
+        },
+        {
+          "move": "Cru-Ailes",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Ptéra"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "35"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "56"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "48"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Ronflex"
+    },
+    {
+      "moves": [
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "1"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Vol",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Piqué",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Picpic",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "51"
+        }
+      ],
+      "nom": "Artikodin"
+    },
+    {
+      "moves": [
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Vol",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Piqué",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "51"
+        },
+        {
+          "move": "Bec Vrille",
+          "lvl": "1"
+        },
+        {
+          "move": "Éclair",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Électhor"
+    },
+    {
+      "moves": [
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Danse Flammes",
+          "lvl": "1"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Vol",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Piqué",
+          "lvl": "60"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Picpic",
+          "lvl": "1"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Sulfura"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "50"
+        },
+        {
+          "move": "Ligotage",
+          "lvl": "1"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Draco-Rage",
+          "lvl": "40"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Souplesse",
+          "lvl": "30"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Minidraco"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "55"
+        },
+        {
+          "move": "Ligotage",
+          "lvl": "1"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Draco-Rage",
+          "lvl": "45"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Souplesse",
+          "lvl": "35"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Draco"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "60"
+        },
+        {
+          "move": "Ligotage",
+          "lvl": "1"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Draco-Rage",
+          "lvl": "45"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Souplesse",
+          "lvl": "35"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Dracolosse"
+    },
+    {
+      "moves": [
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "1"
+        },
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "1"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Choc Mental",
+          "lvl": "1"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Mewtwo"
+    },
+    {
+      "moves": [
+        {
+          "move": "Riposte",
+          "lvl": "0"
+        },
+        {
+          "move": "Psyko",
+          "lvl": "40"
+        },
+        {
+          "move": "Méga-Sangsue",
+          "lvl": "0"
+        },
+        {
+          "move": "Dévorêve",
+          "lvl": "0"
+        },
+        {
+          "move": "Surf",
+          "lvl": "0"
+        },
+        {
+          "move": "Tonnerre",
+          "lvl": "0"
+        },
+        {
+          "move": "Patience",
+          "lvl": "0"
+        },
+        {
+          "move": "Piqué",
+          "lvl": "0"
+        },
+        {
+          "move": "Vague Psy",
+          "lvl": "0"
+        },
+        {
+          "move": "Déflagration",
+          "lvl": "0"
+        },
+        {
+          "move": "Pistolet à O",
+          "lvl": "0"
+        },
+        {
+          "move": "Sacrifice",
+          "lvl": "0"
+        },
+        {
+          "move": "Séisme",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe-Vent",
+          "lvl": "0"
+        },
+        {
+          "move": "Laser Glace",
+          "lvl": "0"
+        },
+        {
+          "move": "Explosion",
+          "lvl": "0"
+        },
+        {
+          "move": "Vol",
+          "lvl": "0"
+        },
+        {
+          "move": "Éboulement",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultimapoing",
+          "lvl": "20"
+        },
+        {
+          "move": "Ultimawashi",
+          "lvl": "0"
+        },
+        {
+          "move": "Draco-Rage",
+          "lvl": "0"
+        },
+        {
+          "move": "Plaquage",
+          "lvl": "0"
+        },
+        {
+          "move": "Météores",
+          "lvl": "0"
+        },
+        {
+          "move": "Destruction",
+          "lvl": "0"
+        },
+        {
+          "move": "Force",
+          "lvl": "0"
+        },
+        {
+          "move": "Ultralaser",
+          "lvl": "0"
+        },
+        {
+          "move": "Jackpot",
+          "lvl": "0"
+        },
+        {
+          "move": "Triplattaque",
+          "lvl": "0"
+        },
+        {
+          "move": "Fatal-Foudre",
+          "lvl": "0"
+        },
+        {
+          "move": "Lance-Soleil",
+          "lvl": "0"
+        },
+        {
+          "move": "Abîme",
+          "lvl": "0"
+        },
+        {
+          "move": "Damoclès",
+          "lvl": "0"
+        },
+        {
+          "move": "Tunnel",
+          "lvl": "0"
+        },
+        {
+          "move": "Bélier",
+          "lvl": "0"
+        },
+        {
+          "move": "Frappe Atlas",
+          "lvl": "0"
+        },
+        {
+          "move": "Coupe",
+          "lvl": "0"
+        },
+        {
+          "move": "Frénésie",
+          "lvl": "0"
+        },
+        {
+          "move": "Blizzard",
+          "lvl": "0"
+        }
+      ],
+      "nom": "Mew"
+    }
+  ]
+}
