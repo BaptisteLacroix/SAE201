@@ -38,12 +38,6 @@ Ce projet est constitué de Lacroix Baptiste, étudiant en 1re année d’étude
 - pokae-g2-bl-tv
 - G2 BL TV
 
-### Méthode d’organisation de l’équipe
-
-L’implémentation et la réalisation du programme, les interactions entre les différentes classes, l’organisation du dépôt sur GitHub, la suite de tests JUnit a été majoritairement géré par Baptiste Lacroix (chef de projet).
-
-La répartition des taches, certains choix stratégiques et algorithmiques sur l’implémentation des données, la mise en forme des documents annexes et JavaDoc ont été majoritairement gérés par Théo Vidal.
-
 ### Tester le programme
 
 Pour tester le programme rien de plus simple allez dans votre IDE favoris puis exécutez la classe Main.java
