@@ -19,7 +19,7 @@ import java.util.*;
  * Un dresseur humain n'utilise pas IStrategy
  * Chaque méthode de IStrategy correspond à la méthode homonyme de IDresseur
  *
- * @author Lacroix Baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public class Strategy implements IStrategy {
     private final IDresseur dresseur;
