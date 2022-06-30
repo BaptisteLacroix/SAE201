@@ -12,7 +12,7 @@ import interfaces.IStat;
 /**
  * Classe qui contient les stats. Implémente IStat
  *
- * @author Lacroix Baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public class Stat implements IStat {
     /**
