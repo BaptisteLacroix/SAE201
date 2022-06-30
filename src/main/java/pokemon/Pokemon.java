@@ -22,7 +22,7 @@ import java.util.logging.Level;
 /**
  * Classe générant un Pokémon avec toutes ses spécificités. implément IPokemon
  *
- * @author Lacroix Baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public class Pokemon implements IPokemon {
     /**
