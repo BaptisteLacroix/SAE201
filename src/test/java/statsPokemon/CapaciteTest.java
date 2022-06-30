@@ -10,7 +10,7 @@ import pokemon.Pokemon;
 /**
  * Une classe qui est utilisée pour tester la classe Capacite.
  *
- * @author Lacroix baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public class CapaciteTest {
 
