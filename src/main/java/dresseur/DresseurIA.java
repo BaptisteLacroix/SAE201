@@ -17,7 +17,7 @@ import java.util.logging.Level;
  * Classe qui gère la création d'un dresseur IA. Implémente IDresseur
  * Un DresseurIA possède une référence sur une IStrategy à qui il délègue la prise de décision.
  *
- * @author Lacroix Baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public class DresseurIA implements IDresseur {
     /**
