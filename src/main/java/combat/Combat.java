@@ -23,7 +23,7 @@ import java.util.logging.Level;
 /**
  * Classe qui gère les combats entre dresseurs (IA,Humain) implémente ICombat
  *
- * @author Lacroix Baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public class Combat implements ICombat {
     /**
