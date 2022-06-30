@@ -13,7 +13,7 @@ import java.util.Random;
 /**
  * Classe permettant de tester le programme
  *
- * @author Lacroix Baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public class Main {
     /**
