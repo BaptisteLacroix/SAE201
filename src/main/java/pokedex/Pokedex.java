@@ -28,7 +28,7 @@ import java.util.logging.Level;
 /**
  * Une Classe qui se charge de générer le Pokedex. Implémente IPokedex
  *
- * @author Lacroix baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public class Pokedex implements IPokedex {
     /**
