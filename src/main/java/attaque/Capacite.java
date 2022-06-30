@@ -19,7 +19,7 @@ import java.util.Random;
 /**
  * Une capacité est un type d'attaque que le pokemon peut utilser
  *
- * @author Lacroix Baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public class Capacite implements ICapacite {
     /**
