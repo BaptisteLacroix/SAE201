@@ -12,7 +12,7 @@ import statsPokemon.Type;
 /**
  * Une classe qui est utilisée pour tester la classe Pokemon.
  *
- * @author Lacroix baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public class PokemonTest {
 
