@@ -19,7 +19,7 @@ import java.util.logging.Level;
 /**
  * Classe qui gère la création d'un dresseur humain. Implémente IDresseur.
  *
- * @author Lacroix Baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public class DresseurHuman implements IDresseur {
     /**
