@@ -32,7 +32,7 @@ import java.util.logging.Level;
 /**
  * Classe générant une espèce avec toutes ses spécificités. Implément IEspece
  *
- * @author Lacroix Baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public class Espece implements IEspece {
     /**
