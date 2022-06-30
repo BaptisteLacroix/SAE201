@@ -18,7 +18,7 @@ import java.util.Date;
 /**
  * Classe qui gère l'issue d'un tour entre les différentes attaques. Implémente ITour
  *
- * @author Lacroix Baptiste and Vidal
+ * @author Lacroix Baptiste
  */
 public class Tour implements ITour {
     /**
