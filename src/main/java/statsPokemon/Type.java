@@ -12,7 +12,7 @@ import interfaces.IType;
 /**
  * Classe qui permet de définir le type. Implemente IType
  *
- * @author Lacroix Baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public enum Type implements IType {
     /**
