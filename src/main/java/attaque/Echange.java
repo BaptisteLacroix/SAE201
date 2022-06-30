@@ -14,7 +14,7 @@ import interfaces.IPokemon;
  * C'est un autre type d'attaque
  * Correspond à l'échange du Pokemon du combat avec un autre Pokemon du ranch
  *
- * @author Lacroix baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public class Echange implements IEchange {
     /**
