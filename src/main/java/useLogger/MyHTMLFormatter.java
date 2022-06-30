@@ -17,7 +17,7 @@ import java.util.logging.LogRecord;
 /**
  * C'est un formateur qui formate le HTML
  *
- * @author Lacroix Baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 class MyHTMLFormatter extends Formatter {
     // this method is called for every log records
