@@ -14,7 +14,7 @@ import java.util.logging.*;
 /**
  * Cette classe est utilisée pour configurer le logger
  *
- * @author Lacroix Baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public class MyLoggerConfiguration {
     // Creating a logger object.
