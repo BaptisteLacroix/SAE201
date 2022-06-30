@@ -16,7 +16,7 @@ import java.util.Objects;
  * - soit Physique
  * - soit Special
  *
- * @author Lacroix Baptiste and Vidal Théo
+ * @author Lacroix Baptiste
  */
 public enum Categorie implements ICategorie {
     /**
